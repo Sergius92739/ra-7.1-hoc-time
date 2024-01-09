@@ -1,8 +1,8 @@
 import PropType from 'prop-types'
 
-export default function DateTime(props) {
+export default function DateTime({ date }) {
   return (
-    <p className="date">{props.date}</p>
+    <p className="date">{date}</p>
   )
 }
 
