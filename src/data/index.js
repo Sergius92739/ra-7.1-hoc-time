@@ -3,7 +3,7 @@ import 'moment/locale/ru';
 
 export const data = [
   {
-    url: 'https://www.youtube.com/embed/rN6nlNC9WQA?rel=0&amp;controls=0&amp;showinfo=0',
+    url: 'https://www.youtube.com/watch?v=7W4PD4BN3eY',
     date: moment().subtract(15, 'seconds')
   },
   {
